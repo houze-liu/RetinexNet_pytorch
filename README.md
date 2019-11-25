@@ -1,4 +1,4 @@
-##RetinexNet Pytorch
+## RetinexNet Pytorch
 
 This is a repository for code to reproduce **Deep Retinex Decomposition for Low-Light Enhancement** as a pytorch project.
 
@@ -22,7 +22,7 @@ Before; After
 
 
 
-####Requirements
+#### Requirements
 
 torch 1.0.0
 
@@ -36,7 +36,7 @@ PIL
 
 
 
-####Project Structure
+#### Project Structure
 
 ```
 - Desktop
@@ -78,6 +78,6 @@ python evaluation.py
 
 
 
-####Acknowledge
+#### Acknowledge
 
 [authors' website about their project](https://daooshee.github.io/BMVC2018website/), [source paper](https://arxiv.org/pdf/1808.04560.pdf), [datapipline code](https://github.com/TAMU-VITA/EnlightenGAN)
